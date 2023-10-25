@@ -2,9 +2,9 @@
 
 <h3> 👋 Olá! Seja bem-vindo/a ao meu perfil! </h3>
 
-<p>🌱Sou estudante de Análise e Desenvolvimento de Sistemas e quero depositar/compartilhar os meus projetos na plataforma.<br>
+<p>🌱Sou estudante de Análise e Desenvolvimento de Sistemas e quero depositar/compartilhar os meus projetos nesta plataforma.<br>
 
-⚡Em via da regra, na plataforma vou deixar disponível trabalhos cujo os conceitos são de programação front-end em virtude da política do GithubPages. Porém, irei colocar outros projetos em Java, Python Node.Js e demais linguagens direcionadas ao servidor dentro do meu portfólio.</p>
+⚡Em via da regra, vou deixar disponível no GituHub meus trabalhos e exercícios particulares. </p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4YzYzYTEwYWU5YjFlNWJmODkxMmY0NjUzMzI5YWQ1YjE1MjE4OSZjdD1n/IoP0PvbbSWGAM/giphy.gif">
 
