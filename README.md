@@ -4,7 +4,7 @@
 
 <p>🌱Sou estudante de Análise e Desenvolvimento de Sistemas e quero depositar/compartilhar os meus projetos nesta plataforma.<br>
 
-⚡Em via da regra, vou deixar disponível no GituHub meus trabalhos e exercícios particulares. </p>
+⚡Em via da regra, vou deixar disponível no GitHub meus trabalhos e exercícios particulares. </p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4YzYzYTEwYWU5YjFlNWJmODkxMmY0NjUzMzI5YWQ1YjE1MjE4OSZjdD1n/IoP0PvbbSWGAM/giphy.gif">
 
